@@ -1,0 +1,12 @@
+   body {
+       padding-top: 56px;
+   }
+
+   .jumbotron {
+       background-color: #f8f9fa;
+       padding: 2rem 1rem;
+   }
+
+   .navbar-brand {
+       font-weight: bold;
+   }
